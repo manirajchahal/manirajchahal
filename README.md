@@ -55,7 +55,7 @@ I'm a Cybersecurity student with a passion for technology and security. I'm curr
 
 ## GitHub Stats
 
-![Maniraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Maniraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manirajchahal&show_icons=true&theme=radical)
 
 ---
 
