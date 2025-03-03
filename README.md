@@ -16,7 +16,7 @@ I'm a Cybersecurity student with a passion for technology and security. I'm curr
 ## Skills
 
 - **Cybersecurity:** Network security, vulnerability assessment,  ethical hacking.
-- **Programming:** Python, SQL, Powershell, Bash scripting.
+- **Programming:** Python, Powershell, Bash scripting.
 - **Tools & Technologies:** Wireshark, Metasploit, Nmap, Scapy, Cowrie, VM's.
 - **Soft Skills:** Problem-solving, critical thinking, teamwork, adaptability.
 
