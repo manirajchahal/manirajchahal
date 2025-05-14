@@ -17,7 +17,7 @@ I'm a Cybersecurity student with a passion for technology and security. I'm curr
 
 - **Cybersecurity:** Network security, vulnerability assessment,  ethical hacking.
 - **Programming:** Python, Powershell, Bash scripting.
-- **Tools & Technologies:** Wireshark, Metasploit, Nmap, Scapy, Cowrie, VM's.
+- **Tools & Technologies:** Wireshark, Metasploit, Nmap, Scapy, Cowrie, VirtualBox.
 - **Soft Skills:** Problem-solving, critical thinking, teamwork, adaptability.
 
 ---
