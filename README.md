@@ -6,16 +6,26 @@ I'm a Cybersecurity student with a passion for technology and security. I'm curr
 
 ## About Me
 
+- 📜 I've gotten my CompTIA Security+! I also hold various other certifications such as ISC2 CC as well as several Cisco Course Certifications.
 - 🔭 I’m currently working on building projects and gaining certifications.
 - 🌱 I’m continuously expanding my knowledge in areas like network security, ethical hacking, and digital forensics.
 - 👯 I’m looking to collaborate on projects related to cybersecurity and technology.
 - 🤝 I'm always open to discussing potential internship opportunities and tech projects.
+- 🧑‍🍳 Fun fact: I'm a chef! Even though I'm only 20 years old, Ive been working as a chef for many years!
+
+---
+
+## Experience & Education
+
+- **Education:** Sacred Heart University – Bachelor’s in Cybersecurity (Expected 2026)
+- **Experience:** IT Technician @ Sacred Heart University, Incoming IT & Security Intern @ Take-Two Interactive, Security Engineer @ Credit Connect
+- **Volunteer Work:** Volunteering for ISC2 Center for Cyber Safety and Education & ISACA as a Student Volunteer
 
 ---
 
 ## Skills
 
-- **Cybersecurity:** Network security, vulnerability assessment,  ethical hacking.
+- **Cybersecurity:** Network security, vulnerability assessment, ethical hacking.
 - **Programming:** Python, Powershell, Bash scripting.
 - **Tools & Technologies:** Wireshark, Metasploit, Nmap, Scapy, Cowrie, VirtualBox.
 - **Soft Skills:** Problem-solving, critical thinking, teamwork, adaptability.
@@ -35,14 +45,6 @@ I'm a Cybersecurity student with a passion for technology and security. I'm curr
 - **Highlights:** Developing expertise in firewall configuration, SIEM integration, and network segmentation; gaining practical insights into threat detection, log analysis, and incident response; and enhancing troubleshooting, hardware compatibility, and network security architecture skills advanced my cybersecurity proficiency and enabled me to build a robust lab environment for safely experimenting with offensive and defensive techniques, ultimately preparing me to tackle complex real-world challenges.
 
 *Feel free to explore my repositories to see more projects and contributions!*
-
----
-
-## Experience & Education
-
-- **Education:** Sacred Heart University – Bachelor’s in Cybersecurity (Expected 2026)
-- **Experience:** Help Desk Technician - Sacred Heart University
-- **Volunteer Work:** Volunteering for ISC2 Center for Cyber Safety and Education
 
 ---
 
