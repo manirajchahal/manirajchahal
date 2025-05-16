@@ -54,12 +54,13 @@ I'm a Cybersecurity student with a passion for technology and security. I'm curr
 - 🌐 [LinkedIn](https://www.linkedin.com/in/manirajchahal)
 
 ---
-
+<!--
 ## GitHub Stats
 
 ![Maniraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manirajchahal&show_icons=true&theme=radical)
 
 ---
+-->
 
 *Thank you for visiting my profile! I'm excited to connect, collaborate, and contribute to exciting cybersecurity projects.*
 
