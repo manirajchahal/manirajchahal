@@ -35,9 +35,9 @@ I'm a Cybersecurity student with a passion for technology and security. I'm curr
 ## Projects
 
 ### [Windows Server AD Home Lab](https://github.com/manirajchahal/Windows-Server-Active-Directory-Project)
-- **Description:** Built a Windows Server 2022 AD Home Lab featuring a domain controller with static IP/DNS, structured OUs with departmental groups and users, secure file services with NTFS permissions, and automated network drive mapping via Group Policy, plus FSRM for quotas and file screening.
-- **Technologies:** Windows Server 2022, Active Directory Domain Services (AD DS), Group Policy Management Console (GPMC), File Server Resource Manager (FSRM), NTFS Permissions, Cisco Packet Tracer, Windows 10, Static IP/DNS configuration
-- **Highlights:** The project deployed a domain controller with a robust OU structure and secure file sharing using NTFS permissions, automated drive mapping via Group Policy, and FSRM for quotas, successfully overcoming static IP/DNS challenges as illustrated by a comprehensive network diagram.
+Windows Server AD Home Lab
+- **Overview**: Deployed a Windows Server 2022 domain controller with static IP/DNS, departmental OUs, NTFS-secured shares, automated drive mapping via Group Policy, and FSRM quotas/file screening.
+- **Tech**: Windows Server 2022 · AD DS · GPMC · FSRM · NTFS · Packet Tracer · Win 10
 
 ### [Cybersecurity Homelab](https://github.com/manirajchahal/Cybersecurity-Homelab)
 - **Description:** I designed and built a comprehensive cybersecurity homelab to simulate real-world network security scenarios in a closed, controlled environment. This project allowed me to gain hands-on experience in configuring and integrating multiple security technologies. 
