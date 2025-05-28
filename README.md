@@ -11,7 +11,7 @@ I'm a Cybersecurity student with a passion for technology and security. I'm curr
 - 🌱 I’m continuously expanding my knowledge in areas like network security, ethical hacking, and digital forensics.
 - 👯 I’m looking to collaborate on projects related to cybersecurity and technology.
 - 🤝 I'm always open to discussing potential internship opportunities and tech projects.
-- 🧑‍🍳 Fun fact: I'm a chef! Even though I'm only 20 years old, Ive been working as a chef for many years!
+- 🧑‍🍳 Fun fact: I'm a chef! Even though I'm only 20 years old, I've been working as a chef for many years!
 
 ---
 
