@@ -37,12 +37,12 @@ I'm a Cybersecurity student with a passion for technology and security. I'm curr
 ### [Windows Server AD Home Lab](https://github.com/manirajchahal/Windows-Server-Active-Directory-Project)
 Windows Server AD Home Lab
 - **Overview**: Deployed a Windows Server 2022 domain controller with static IP/DNS, departmental OUs, NTFS-secured shares, automated drive mapping via Group Policy, and FSRM quotas/file screening.
-- **Tech**: Windows Server 2022 · AD DS · GPMC · FSRM · NTFS · Packet Tracer · Win 10
+- **Technologies**: Windows Server 2022 · AD DS · GPMC · FSRM · NTFS · Packet Tracer · Win 10
 
 ### [Cybersecurity Homelab](https://github.com/manirajchahal/Cybersecurity-Homelab)
-- **Description:** I designed and built a comprehensive cybersecurity homelab to simulate real-world network security scenarios in a closed, controlled environment. This project allowed me to gain hands-on experience in configuring and integrating multiple security technologies. 
-- **Technologies:** OPNsense Firewall: Installed on an Intel-based PC, configured as the central network defense system with custom firewall rules, NAT, and log forwarding. SIEM Implementation (Wazuh on Raspberry Pi 5): Deployed Wazuh on a Raspberry Pi 5 (16GB RAM) to collect, analyze, and visualize security logs for real-time threat detection and response. Network Segmentation: Utilized a Netgear 8-port Gigabit switch with VLAN configurations to segregate traffic and isolate critical network segments.
-- **Highlights:** Developing expertise in firewall configuration, SIEM integration, and network segmentation; gaining practical insights into threat detection, log analysis, and incident response; and enhancing troubleshooting, hardware compatibility, and network security architecture skills advanced my cybersecurity proficiency and enabled me to build a robust lab environment for safely experimenting with offensive and defensive techniques, ultimately preparing me to tackle complex real-world challenges.
+Cybersecurity Homelab
+- **Overview**: Built a closed‐environment lab with an OPNsense firewall on an Intel PC, Wazuh SIEM on Raspberry Pi 5 for real-time log analysis, and VLAN-based segmentation via a Netgear 8-port switch.
+- **Technologies**: OPNsense · Wazuh (Raspberry Pi 5) · VLAN · Netgear 8-Port Switch
 
 *Feel free to explore my repositories to see more projects and contributions!*
 
