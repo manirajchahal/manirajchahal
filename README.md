@@ -6,7 +6,7 @@ I'm a Cybersecurity student with a passion for technology and security. I'm curr
 
 ## About Me
 
-- 📜 I've gotten my CompTIA Security+! I also hold various other certifications such as ISC2 CC as well as several Cisco Course Certifications.
+- 📜 I've gotten my **CompTIA Security+!** I also hold various other certifications such as ISC2 CC as well as several Cisco Course Certifications.
 - 🔭 I’m currently working on building projects and gaining certifications.
 - 🌱 I’m continuously expanding my knowledge in areas like network security, ethical hacking, and digital forensics.
 - 👯 I’m looking to collaborate on projects related to cybersecurity and technology.
