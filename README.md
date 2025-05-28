@@ -1,6 +1,6 @@
 # Hi there, I'm Maniraj 👋
 
-I'm a Cybersecurity student with a passion for technology and security. I'm currently pursuing my Bachelor's degree in Cybersecurity and looking for an internship opportunity to apply my skills and gain real-world experience.
+I'm a Cybersecurity student with a passion for technology and security. I'm currently pursuing my Bachelor's degree in Cybersecurity at Sacred Heart University and looking for a full-time opportunity to apply my skills and gain real-world experience!
 
 ---
 
