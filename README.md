@@ -19,7 +19,7 @@ I'm a Cybersecurity student with a passion for technology and security. I'm curr
 ## Experience & Education
 
 - **Education:** Sacred Heart University – Bachelor’s in Cybersecurity (Expected 2026)
-- **Experience:** IT Technician @ Sacred Heart University, Incoming IT & Security Intern @ Take-Two Interactive, Security Engineer @ Credit Connect
+- **Experience:** Security & IT Intern @ Take-Two Interactive, Security Engineer @ Credit Connect, IT Technician @ Sacred Heart University
 - **Volunteer Work:** Volunteering for ISC2 Center for Cyber Safety and Education & ISACA as a Student Volunteer
 
 ---
